@@ -1,0 +1,146 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+<html>
+<head>
+<!-- TemplateBeginEditable name="doctitle" --> 
+<title>Plataforma por el PN de Candelario.</title>
+<!-- TemplateEndEditable --> 
+<meta http-equiv="" content="text/html; charset=iso-8859-1">
+<!-- TemplateBeginEditable name="head" --> <!-- TemplateEndEditable --> 
+<script language="JavaScript" type="text/JavaScript">
+<!--
+function MM_reloadPage(init) {  //reloads the window if Nav4 resized
+  if (init==true) with (navigator) {if ((appName=="Netscape")&&(parseInt(appVersion)==4)) {
+    document.MM_pgW=innerWidth; document.MM_pgH=innerHeight; onresize=MM_reloadPage; }}
+  else if (innerWidth!=document.MM_pgW || innerHeight!=document.MM_pgH) location.reload();
+}
+MM_reloadPage(true);
+//-->
+</script>
+<meta http-equiv="" content="text/html; charset=iso-8859-1"><meta http-equiv="" content="text/html; charset=iso-8859-1"><meta http-equiv="" content="text/html; charset=iso-8859-1"></head>
+
+<body link="#000000" vlink="#000000" alink="#000000">
+<div align="left"></div>
+<table width="100%" height="403" border="1" align="left" cellpadding="5" cellspacing="0" bordercolor="#999999">
+  <tr>
+    <td height="401" align="left" valign="top"><table width="100%" border="0" cellspacing="0" cellpadding="1">
+        <!--DWLayoutTable-->
+        <tr> 
+          <td width="128" height="104" align="center" valign="middle"><div align="center"><a href="../index.htm"><img src="../Logoparque.JPG" width="95" height="87" border="0"></a></div></td>
+          <td width="814" align="right" valign="top"><div align="right">
+              <table width="100%" height="103" border="0" cellpadding="1" cellspacing="0" background="../Titcampo.JPG">
+                <tr>
+                  <td width="53%"><div align="right"><font size="5" face="Alba"><strong>Parque 
+                      Natural de Candelario</strong></font></div></td>
+                  <td width="47%" align="right" valign="bottom"><font size="7" face="Alba">Flora 
+                    y fauna</font></td>
+                </tr>
+              </table>
+            </div></td>
+        </tr>
+      </table>
+      <table width="100%" height="31" border="0" cellpadding="1" cellspacing="0" bordercolor="#FFFFFF">
+        <tr> 
+          <td width="38%" height="31" valign="top"><font size="2" face="Arial, Helvetica, sans-serif"><a href="../index.htm">INICIO</a> 
+            <!-- TemplateBeginEditable name="EditRegion3" --> <!-- TemplateEndEditable --></font></td>
+          <td width="27%" valign="top"><div align="right"><font color="#FF9933"><font color="#000000" size="2" face="Arial, Helvetica, sans-serif"> 
+              <script LANGUAGE="JavaScript">
+<!-- Hide from old browsers
+function mes(indX) {
+
+monthNames = new Array("Enero","Febrero","Marzo","Abril","Mayo","Junio","Julio",
+"Agosto","Septiembre","Octubre","Noviembre","Diciembre");
+return monthNames[indX];
+}
+
+function diaSemana(indX) {
+
+dias = new Array("Domingo","Lunes","Martes","Miércoles","Jueves","Viernes","Sábado");
+return dias[indX];
+}
+
+
+function century(year) {
+
+if (year <= 99 )
+return "19";
+else
+return "";
+}
+
+hoy = new Date()
+
+
+document.write(diaSemana(hoy.getDay()) + " " + hoy.getDate() + " de " + (mes(hoy.getMonth()) + " de " + century(hoy.getYear()) + hoy.getYear()));
+// Stop hiding from old browsers -->
+      </script>
+              </font></font></div></td>
+          <td width="35%" height="31" valign="top"><div align="center"><font color="#000000" size="2" face="Arial, Helvetica, sans-serif"><a href="mailto:parquenaturaldecandelario@gmail.com">Correo 
+              Electr&oacute;nico</a> - <a href="../formula.htm">Suscripci&oacute;n 
+              a Novedades</a></font></div></td>
+        </tr>
+      </table>
+      <table width="100%" height="218" border="0" cellpadding="5" cellspacing="0">
+        <!--DWLayoutTable-->
+        <tr> 
+          <td width="129" height="218" align="left" valign="top"><table width="95%" border="0" align="left" cellpadding="5" cellspacing="0">
+              <tr> 
+                <td bgcolor="#66CC66"><font color="#000000" size="2" face="Arial, Helvetica, sans-serif"><strong>Fauna</strong></font> 
+                  <table width="99%" border="0" cellspacing="0" cellpadding="5">
+                    <tr> 
+                      <td height="21"><div align="right"> 
+                          <p><strong><font color="#000000"><font size="1" face="Arial, Helvetica, sans-serif"><a href="../aves.htm">Aves</a></font></font></strong></p>
+                        </div></td>
+                    </tr>
+                    <tr> 
+                      <td><div align="right"><strong><font size="1" face="Arial, Helvetica, sans-serif"><a href="../mamiferos.htm">Mam&iacute;feros</a></font></strong></div></td>
+                    </tr>
+                    <tr> 
+                      <td><div align="right"><strong><font size="1" face="Arial, Helvetica, sans-serif"><a href="../reptiles.htm">Reptiles</a></font></strong></div></td>
+                    </tr>
+                    <tr> 
+                      <td><div align="right"><strong><font size="1" face="Arial, Helvetica, sans-serif"><a href="../anfibios.htm">Anfibios</a></font></strong></div></td>
+                    </tr>
+                  </table></td>
+              </tr>
+              <tr> 
+                <td bgcolor="#66CC66"><font size="2" face="Arial, Helvetica, sans-serif"><strong><a href="../flora.pdf" target="_blank">Flora</a></strong></font></td>
+              </tr>
+              <tr> 
+                <td align="center" valign="top" bgcolor="#66CC66"><div align="left"><font size="2" face="Arial, Helvetica, sans-serif"><strong>Enlaces</strong></font></div></td>
+              </tr>
+              <tr> 
+                <td height="29" align="center" valign="top"> 
+                  <!-- Histats.com  START  -->
+                  <script  type="text/javascript" language="javascript"> 
+  
+ var s_sid = 64703;var st_dominio = 4; 
+ var cimg = 407;var cwi =118;var che =80; 
+ </script> <script  type="text/javascript" language="javascript" src="http://s10.histats.com/js9.js"></script> 
+                  <noscript>
+                  <a href="http://www.histats.com/es/" target="_blank"> <img  src="http://s4.histats.com/stats/0.gif?64703&1" alt="estadisticas web" border="0"></a> 
+                  </noscript> 
+                  <!-- Histats.com  END  -->
+                  &nbsp;</td>
+              </tr>
+            </table></td>
+          <td align="left" valign="top"><!-- TemplateBeginEditable name="EditRegion4" --> 
+            <table width="100%" border="1" cellpadding="5" cellspacing="0" bordercolor="#999999">
+              <tr> 
+                <td valign="top" bordercolor="#999999">&nbsp;</td>
+              </tr>
+            </table>
+            <!-- TemplateEndEditable --></td>
+        </tr>
+      </table>
+      <table width="100%" border="0" cellspacing="0" cellpadding="5">
+        <tr>
+          <td bgcolor="#CCCCCC"><div align="left"><font color="#000000" size="1" face="Arial, Helvetica, sans-serif">Plataforma 
+              por el Parque Natural de Candelario. Constituida el 26 de Junio 
+              de 2006. Inscrita en el Registro Nacional de Asociaciones: Grupo 
+              1, Secci&oacute;n 1, n&ordm; 587990</font></div></td>
+        </tr>
+      </table></td>
+  </tr>
+</table>
+</body>
+</html>
